@@ -16,8 +16,8 @@ Druide
 
 ### Historique 
 
-> Shandri s'est perdue dans la foret étant petite en fuyant son village natal rasé par un raid de pillards
-elle a subi un tel choc et vu tellement d'horeurs ce jour que son esprit, comme pour la protéger a décidé de bloquer l'accès à ces souvenirs. Depuis elle vit dans la foret et elle a appris à y survivre. La nature est son habitat et elle ferait tout pour la protéger. 
+> Shandri s'est perdue dans la foret étant petite en fuyant son village natal rasé par un raid de pillards.
+Elle a subi un tel choc et vu tellement d'horeurs ce jour que son esprit, comme pour la protéger a décidé de bloquer l'accès à ces souvenirs. Depuis elle vit dans la foret et elle a appris à y survivre. La nature est son habitat et elle ferait tout pour la protéger. 
 
 
 **Sauvageon**
@@ -28,7 +28,7 @@ elle a subi un tel choc et vu tellement d'horeurs ce jour que son esprit, comme 
 
 *Lien:*  Je prends la route pour protéger l'équilibre des éléments.QUitte à sacrifier ma solitude pour rejoindre un groupe de compagnon.
 
-*Défauts:*  Je n'ai jamais voulu apprendre à parler et j'évite autant que possible de communiquer.J'utilise une forme de télépathie pour envoyer une succession d'images afin de me faire comprendre mais tout le monde n'est pas forcément réceptif à ce type de lien et il peut effayer certaines personnes.
+*Défauts:*  Je n'ai jamais voulu apprendre à parler et j'évite autant que possible de communiquer. J'utilise une forme de télépathie pour envoyer une succession d'images afin de me faire comprendre mais tout le monde n'est pas forcément réceptif à ce type de lien et il peut effayer certaines personnes.
 Je mets du temps à faire confiance aux membres d'autres races, tribus ou sociétés.
 
 ### Carctéristiques
