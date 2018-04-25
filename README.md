@@ -1,18 +1,18 @@
 # Donjons et dragons
----------------------
+
 Résumé de mon premier personnage D&D
 
-# Personnage
-------------
-## Nom
+## Résumé du personnage
 
-## Race
+### Nom
+
+### Race
 Elfe, Humain ou Demi-Elfe (Je n'ai pas encore choisi)
 
-## Classe
+### Classe
 Druide 
 
-## Carctéristiques
+### Carctéristiques
 * Force
 * Dextérité
 * Constitution
@@ -20,4 +20,9 @@ Druide
 * Sagesse
 * Charisme
 
-## 
+### Compétences
+* Dressage
+* Perspicacité
+* Survie
+
+
