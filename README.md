@@ -4,6 +4,8 @@ Résumé de mon premier personnage D&D
 
 ## Résumé du personnage
 
+![Druide](https://image.noelshack.com/fichiers/2018/17/3/1524645892-5596370af280ab69d07a0962e9f7a7a0.jpg)
+
 ### Nom
 
 ### Race
