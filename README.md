@@ -32,43 +32,66 @@ Elle a subi un tel choc et vu tellement d'horeurs ce jour que son esprit, comme 
 Je mets du temps à faire confiance aux membres d'autres races, tribus ou sociétés.
 
 ### Carctéristiques
-* Force: A déterminer
-* Dextérité: A déterminer
-* Constitution: A déterminer
-* Intelligence: A déterminer
-* Sagesse: A déterminer
-* Charisme: A déterminer
+* Force: 11+1
+* Dextérité: 10
+* Constitution: 14+1
+* Intelligence: 12
+* Sagesse: 18
+* Charisme: 10
+
+**PV : 10**
+
+
 
 ### Compétences
 * Dressage
 * Perspicacité
 * Survie
+* Athlétisme
+* Nature
 
 ### Arme de prédilection
 Lances, javelines et dagues
 
-### Sorts
-**Sorts Mineurs**
-
-* Production de flamme (validé)
-* coup de tonnerre (A valider)
-* Fouet épineux (A valider)
-* Vaporisation de poison (A valider)
-
-**Sorts de niveau 1**
-
-* Baies nourricières (A valider) 
-* Soins (A valider)
-* Absorbtion des éléments (A valider)
-* Poignard de glace (A valider)
-
 ## Equipement
 
 * 1 Lance 
-* 5 Javelines
+* 1 Bouclier en bois
+* 1 pack d'exploration
+* 1 Totem (Collier en dents et plumes)
+* 1 Bâton
+* Matériel d'herboriste
+* Tenue de voyage
+* Bourse 10 Po
 * 2 Dagues
-* 1 Armure de peau
+* 1 Armure de cuir
+* 1 couteau ayant appartenu à un parent
 
 
+### Sorts
+**Tours**
 
+* Production de flamme 
+* Vaporisation de poison 
+
+**Sorts de niveau 1**
+
+* Baies nourricières 
+* Soins des blessures
+* Amitié animale
+* Communication avec les annimaux
+* Vague tonnante 
+
+**DD Sauvegarde : 14**
+
+**Attaque +6**
+
+## Social
+
+**Langues**
+
+* Commun
+* Druidique
+* Elfique
+* Primordial
 
